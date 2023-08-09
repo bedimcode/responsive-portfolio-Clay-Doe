@@ -1,7 +1,13 @@
 # Responsive Portfolio Clay Doe
 ## [Watch it on youtube](https://youtu.be/BS6blX035NM)
 ### Responsive Portfolio Clay Doe
-Clean and nice web portfolio, fully developed mobile first and responsive, for a designer or developer. It includes a Header, Home, About, Qualification, Services, Project in mind, Portfolio, Testimonial, Contact and Footer. And web animations in the home part.
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Contains animations in the Home section.
+- Contains smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
